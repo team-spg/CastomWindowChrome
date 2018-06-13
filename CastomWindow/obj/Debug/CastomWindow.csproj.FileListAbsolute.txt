@@ -1,0 +1,13 @@
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\bin\Debug\CastomWindow.exe.config
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\bin\Debug\CastomWindow.exe
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\bin\Debug\CastomWindow.pdb
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\CastomWindow.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\MainWindow.baml
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\MainWindow.g.cs
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\App.g.cs
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\CastomWindow_MarkupCompile.cache
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\CastomWindow.g.resources
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\CastomWindow.Properties.Resources.resources
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\CastomWindow.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\CastomWindow.exe
+D:\Projects\Visual Studio\CastomWindow\CastomWindow\obj\Debug\CastomWindow.pdb

@@ -1,0 +1,25 @@
+﻿<Window x:Class="CastomWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="400"
+        WindowState="Maximized" 
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        MaxWidth="{Binding Source={x:Static SystemParameters.WorkArea}, Path=Width}"
+        MaxHeight="{Binding Source={x:Static SystemParameters.WorkArea}, Path=Height}">
+    <DockPanel x:Name="RootWindow">
+        <DockPanel x:Name="TitleBar" DockPanel.Dock="Top" MouseDown="TitleBar_MouseDown">
+            <Button x:Name="CloseButton" Content="X"
+                    Click="CloseButton_Click"                 
+                    DockPanel.Dock="Right" />
+            <Button x:Name="MaxButton" Content="Restore" 
+                    Click="MaximizeButton_Click"
+                    DockPanel.Dock="Right" />
+            <Button x:Name="MinButton" Content="Min"
+                    Click="MinimizeButton_Click"
+                    DockPanel.Dock="Right" />
+            <TextBlock HorizontalAlignment="Center">Application Name</TextBlock>
+        </DockPanel>
+        <ContentControl Content="{Binding CurrentPage}" />
+    </DockPanel>
+</Window>
